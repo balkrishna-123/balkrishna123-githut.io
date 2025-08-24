@@ -1,2 +1,2 @@
-# balkrishna123-githut.io
+# balkrishna123-github.io
 test repo
